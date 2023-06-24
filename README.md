@@ -1,2 +1,3 @@
 # plagiarism-checker
-Will open-source soon
+
+Use Next.Js and Node to run
