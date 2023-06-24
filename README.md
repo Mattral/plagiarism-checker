@@ -1,3 +1,3 @@
 # plagiarism-checker
 
-Use Next.Js and Node to run
+Use Next React and Node to run 
